@@ -35,3 +35,7 @@ The next file is Model.JSON (for output of excel only), this allows you to categ
             "Type":"Expense"
         }]
     }
+
+## Technical Requirements
+* Project needs to be build
+* .Net Core 3.0
