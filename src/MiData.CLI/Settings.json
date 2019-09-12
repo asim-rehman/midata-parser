@@ -1,0 +1,12 @@
+{
+
+  "OutputPath": "S:\\Users\\8501\\",
+  "InputPath": "SampleData.csv",
+  "Format": "excel",
+  "Log": false,
+  "LogDirectory": "C:\\MiData.txt",
+  "Display": true,
+  "ModelFile": "Model.json",
+  "Delimiter": ";"
+
+}

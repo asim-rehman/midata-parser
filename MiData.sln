@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiData", "src\MiData\MiData.csproj", "{0C238B2B-1DED-49B4-9CF7-6A51C7AB23A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiData.CLI", "src\MiData.CLI\MiData.CLI.csproj", "{1E351936-C7FE-425C-93A8-9EF726AB9113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C238B2B-1DED-49B4-9CF7-6A51C7AB23A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C238B2B-1DED-49B4-9CF7-6A51C7AB23A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C238B2B-1DED-49B4-9CF7-6A51C7AB23A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C238B2B-1DED-49B4-9CF7-6A51C7AB23A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E351936-C7FE-425C-93A8-9EF726AB9113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E351936-C7FE-425C-93A8-9EF726AB9113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E351936-C7FE-425C-93A8-9EF726AB9113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E351936-C7FE-425C-93A8-9EF726AB9113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4215B001-2E88-4BCE-A067-7283EAE3DFD6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+{
+    "Sheets":[{
+        "Name":"Supermarkets",
+      "Items": [ "Walmart", "Iceland" ],
+        "Type":"Expense"
+    },
+    {
+        "Name":"e-commerce",
+        "Items":["Amazon", "eBay"],
+        "Type":"Expense"
+    }
+]
+}
